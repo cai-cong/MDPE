@@ -8,7 +8,7 @@ MDPE is a multimodal deception dataset. Besides deception features, it also incl
 
 ## Dataset Download Link
 
-[Download Link](https://huggingface.co/datasets/MDPEdataset/MDPE_Dataset)
+[Download Dataset](https://huggingface.co/datasets/MDPEdataset/MDPE_Dataset)
 
 The data are passcode protected. Please download and send the signed [EULA](https://drive.google.com/file/d/1A1F8szMOTf9-rK8DYD23GruBArtnYdLl/view?usp=sharing) to [mdpe.contact@gmail.com](mdpe.contact@gmail.com) for access request.
 
