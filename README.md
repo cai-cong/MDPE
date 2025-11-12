@@ -20,11 +20,12 @@ For more details about MDPE, please refer to:
 Please cite our paper if you find our work useful for your research:
 
 ```
-@article{cai2024mdpe,
-  title={MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristics},
+@inproceedings{cai2025mdpe,
+  title={Mdpe: A multimodal deception dataset with personality and emotional characteristics},
   author={Cai, Cong and Liang, Shan and Liu, Xuefei and Zhu, Kang and Wen, Zhengqi and Tao, Jianhua and Xie, Heng and Cui, Jizhou and Ma, Yiming and Cheng, Zhenhua and others},
-  journal={arXiv preprint arXiv:2407.12274},
-  year={2024}
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={12957--12964},
+  year={2025}
 }
 ```
 
